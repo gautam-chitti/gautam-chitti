@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gautam-chitti/&title=Profile%20Views)
+
 
 ### My Skills 👨‍💻
 
